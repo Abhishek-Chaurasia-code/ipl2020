@@ -1,0 +1,35 @@
+[
+    {
+        "Runs": "10",
+        "Balls": "15",
+        "Fours": "1",
+        "Sixes": "0",
+        "SR": "66.67",
+        "Date": "Sep 25 2020",
+        "Venue": "Dubai",
+        "Result": "Capitals won by 44 runs",
+        "Opponent Team": "Delhi Capitals"
+    },
+    {
+        "Runs": "1",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "14.29",
+        "Date": "Sep 19 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Super Kings won by 5 wickets (with 4 balls remaining)",
+        "Opponent Team": "Mumbai Indians"
+    },
+    {
+        "Runs": "21",
+        "Balls": "21",
+        "Fours": "3",
+        "Sixes": "0",
+        "SR": "100.00",
+        "Date": "Sep 22 2020",
+        "Venue": "Sharjah",
+        "Result": "Royals won by 16 runs",
+        "Opponent Team": "Rajasthan Royals"
+    }
+]

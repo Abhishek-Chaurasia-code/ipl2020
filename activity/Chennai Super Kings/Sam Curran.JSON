@@ -1,0 +1,123 @@
+[
+    {
+        "Runs": "22",
+        "Balls": "25",
+        "Fours": "1",
+        "Sixes": "1",
+        "SR": "88.00",
+        "Date": "Oct 19 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Royals won by 7 wickets (with 15 balls remaining)",
+        "Opponent Team": "Rajasthan Royals"
+    },
+    {
+        "Runs": "52",
+        "Balls": "47",
+        "Fours": "4",
+        "Sixes": "2",
+        "SR": "110.64",
+        "Date": "Oct 23 2020",
+        "Venue": "Sharjah",
+        "Result": "Mum Indians won by 10 wickets (with 46 balls remaining)",
+        "Opponent Team": "Mumbai Indians"
+    },
+    {
+        "Runs": "13",
+        "Balls": "14",
+        "Fours": "1",
+        "Sixes": "0",
+        "SR": "92.86",
+        "Date": "Oct 29 2020",
+        "Venue": "Dubai",
+        "Result": "Super Kings won by 6 wickets",
+        "Opponent Team": "Kolkata Knight Riders"
+    },
+    {
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "50.00",
+        "Date": "Sep 25 2020",
+        "Venue": "Dubai",
+        "Result": "Capitals won by 44 runs",
+        "Opponent Team": "Delhi Capitals"
+    },
+    {
+        "Runs": "31",
+        "Balls": "21",
+        "Fours": "3",
+        "Sixes": "2",
+        "SR": "147.62",
+        "Date": "Oct 13 2020",
+        "Venue": "Dubai",
+        "Result": "Super Kings won by 20 runs",
+        "Opponent Team": "Sunrisers Hyderabad"
+    },
+    {
+        "Runs": "18",
+        "Balls": "6",
+        "Fours": "1",
+        "Sixes": "2",
+        "SR": "300.00",
+        "Date": "Sep 19 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Super Kings won by 5 wickets (with 4 balls remaining)",
+        "Opponent Team": "Mumbai Indians"
+    },
+    {
+        "Runs": "15",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "2",
+        "SR": "300.00",
+        "Date": "Oct 2 2020",
+        "Venue": "Dubai",
+        "Result": "Sunrisers won by 7 runs",
+        "Opponent Team": "Sunrisers Hyderabad"
+    },
+    {
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "0.00",
+        "Date": "Oct 17 2020",
+        "Venue": "Sharjah",
+        "Result": "Capitals won by 5 wickets (with 1 ball remaining)",
+        "Opponent Team": "Delhi Capitals"
+    },
+    {
+        "Runs": "17",
+        "Balls": "6",
+        "Fours": "1",
+        "Sixes": "2",
+        "SR": "283.33",
+        "Date": "Sep 22 2020",
+        "Venue": "Sharjah",
+        "Result": "Royals won by 16 runs",
+        "Opponent Team": "Rajasthan Royals"
+    },
+    {
+        "Runs": "17",
+        "Balls": "11",
+        "Fours": "1",
+        "Sixes": "1",
+        "SR": "154.55",
+        "Date": "Oct 7 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "KKR won by 10 runs",
+        "Opponent Team": "Kolkata Knight Riders"
+    },
+    {
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "0.00",
+        "Date": "Oct 10 2020",
+        "Venue": "Dubai",
+        "Result": "RCB won by 37 runs",
+        "Opponent Team": "Royal Challengers Bangalore"
+    }
+]

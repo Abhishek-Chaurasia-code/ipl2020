@@ -1,0 +1,24 @@
+[
+    {
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "0.00",
+        "Date": "Oct 23 2020",
+        "Venue": "Sharjah",
+        "Result": "Mum Indians won by 10 wickets (with 46 balls remaining)",
+        "Opponent Team": "Mumbai Indians"
+    },
+    {
+        "Runs": "33",
+        "Balls": "28",
+        "Fours": "4",
+        "Sixes": "0",
+        "SR": "117.86",
+        "Date": "Oct 10 2020",
+        "Venue": "Dubai",
+        "Result": "RCB won by 37 runs",
+        "Opponent Team": "Royal Challengers Bangalore"
+    }
+]
