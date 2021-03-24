@@ -109,6 +109,7 @@ function extractScore(html){
     
 }
 
+//func to create folder of team
 function dirCreator(topicName){
     let pathOfFolder= path.join(__dirname,topicName);
     if(fs.existsSync(pathOfFolder)==false){
@@ -116,7 +117,7 @@ function dirCreator(topicName){
     }
 }
 
-
+//function to create JSON files of team players and to update them
 function creatorFile(playerName,teamName,venue,date,runs,balls,fours,sixes,sr,result,opponent){
     let pathOfFile= path.join(__dirname,teamName,playerName +".JSON");
 
