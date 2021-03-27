@@ -1,1 +1,35 @@
-[{"Runs":"0","Balls":"0","Fours":"0","Sixes":"0","SR":"0.00","Date":"Oct 24 2020","Venue":"Dubai","Result":"Kings XI won by 12 runs","Opponent Team":"Sunrisers Hyderabad"},{"Runs":"6","Balls":"7","Fours":"1","Sixes":"0","SR":"85.71","Date":"Oct 8 2020","Venue":"Dubai","Result":"Sunrisers won by 69 runs","Opponent Team":"Sunrisers Hyderabad"},{"Runs":"1","Balls":"5","Fours":"0","Sixes":"0","SR":"20.00","Date":"Oct 1 2020","Venue":"Abu Dhabi","Result":"Mum Indians won by 48 runs","Opponent Team":"Mumbai Indians"}]
+[
+    {
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "0.00",
+        "Date": "Oct 24 2020",
+        "Venue": "Dubai",
+        "Result": "Kings XI won by 12 runs",
+        "Opponent Team": "Sunrisers Hyderabad"
+    },
+    {
+        "Runs": "6",
+        "Balls": "7",
+        "Fours": "1",
+        "Sixes": "0",
+        "SR": "85.71",
+        "Date": "Oct 8 2020",
+        "Venue": "Dubai",
+        "Result": "Sunrisers won by 69 runs",
+        "Opponent Team": "Sunrisers Hyderabad"
+    },
+    {
+        "Runs": "1",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "20.00",
+        "Date": "Oct 1 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Mum Indians won by 48 runs",
+        "Opponent Team": "Mumbai Indians"
+    }
+]

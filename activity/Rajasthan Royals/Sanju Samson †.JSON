@@ -1,1 +1,79 @@
-[{"Runs":"0","Balls":"3","Fours":"0","Sixes":"0","SR":"0.00","Date":"Oct 19 2020","Venue":"Abu Dhabi","Result":"Royals won by 7 wickets (with 15 balls remaining)","Opponent Team":"Chennai Super Kings"},{"Runs":"48","Balls":"25","Fours":"4","Sixes":"3","SR":"192.00","Date":"Oct 30 2020","Venue":"Abu Dhabi","Result":"Royals won by 7 wickets (with 15 balls remaining)","Opponent Team":"Punjab Kings"},{"Runs":"9","Balls":"6","Fours":"0","Sixes":"1","SR":"150.00","Date":"Oct 17 2020","Venue":"Dubai","Result":"RCB won by 7 wickets (with 2 balls remaining)","Opponent Team":"Royal Challengers Bangalore"},{"Runs":"36","Balls":"26","Fours":"3","Sixes":"1","SR":"138.46","Date":"Oct 22 2020","Venue":"Dubai","Result":"Sunrisers won by 8 wickets (with 11 balls remaining)","Opponent Team":"Sunrisers Hyderabad"},{"Runs":"1","Balls":"4","Fours":"0","Sixes":"0","SR":"25.00","Date":"Nov 1 2020","Venue":"Dubai","Result":"KKR won by 60 runs","Opponent Team":"Kolkata Knight Riders"},{"Runs":"74","Balls":"32","Fours":"1","Sixes":"9","SR":"231.25","Date":"Sep 22 2020","Venue":"Sharjah","Result":"Royals won by 16 runs","Opponent Team":"Chennai Super Kings"},{"Runs":"54","Balls":"31","Fours":"4","Sixes":"3","SR":"174.19","Date":"Oct 25 2020","Venue":"Abu Dhabi","Result":"Royals won by 8 wickets (with 10 balls remaining)","Opponent Team":"Mumbai Indians"}]
+[
+    {
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "0.00",
+        "Date": "Oct 19 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Royals won by 7 wickets (with 15 balls remaining)",
+        "Opponent Team": "Chennai Super Kings"
+    },
+    {
+        "Runs": "48",
+        "Balls": "25",
+        "Fours": "4",
+        "Sixes": "3",
+        "SR": "192.00",
+        "Date": "Oct 30 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Royals won by 7 wickets (with 15 balls remaining)",
+        "Opponent Team": "Punjab Kings"
+    },
+    {
+        "Runs": "9",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "1",
+        "SR": "150.00",
+        "Date": "Oct 17 2020",
+        "Venue": "Dubai",
+        "Result": "RCB won by 7 wickets (with 2 balls remaining)",
+        "Opponent Team": "Royal Challengers Bangalore"
+    },
+    {
+        "Runs": "36",
+        "Balls": "26",
+        "Fours": "3",
+        "Sixes": "1",
+        "SR": "138.46",
+        "Date": "Oct 22 2020",
+        "Venue": "Dubai",
+        "Result": "Sunrisers won by 8 wickets (with 11 balls remaining)",
+        "Opponent Team": "Sunrisers Hyderabad"
+    },
+    {
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "25.00",
+        "Date": "Nov 1 2020",
+        "Venue": "Dubai",
+        "Result": "KKR won by 60 runs",
+        "Opponent Team": "Kolkata Knight Riders"
+    },
+    {
+        "Runs": "74",
+        "Balls": "32",
+        "Fours": "1",
+        "Sixes": "9",
+        "SR": "231.25",
+        "Date": "Sep 22 2020",
+        "Venue": "Sharjah",
+        "Result": "Royals won by 16 runs",
+        "Opponent Team": "Chennai Super Kings"
+    },
+    {
+        "Runs": "54",
+        "Balls": "31",
+        "Fours": "4",
+        "Sixes": "3",
+        "SR": "174.19",
+        "Date": "Oct 25 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Royals won by 8 wickets (with 10 balls remaining)",
+        "Opponent Team": "Mumbai Indians"
+    }
+]

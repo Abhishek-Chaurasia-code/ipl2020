@@ -1,1 +1,13 @@
-[{"Runs":"5","Balls":"10","Fours":"0","Sixes":"0","SR":"50.00","Date":"Sep 26 2020","Venue":"Abu Dhabi","Result":"KKR won by 7 wickets (with 12 balls remaining)","Opponent Team":"Kolkata Knight Riders"}]
+[
+    {
+        "Runs": "5",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "50.00",
+        "Date": "Sep 26 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "KKR won by 7 wickets (with 12 balls remaining)",
+        "Opponent Team": "Kolkata Knight Riders"
+    }
+]

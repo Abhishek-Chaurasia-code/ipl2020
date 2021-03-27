@@ -1,1 +1,24 @@
-[{"Runs":"0","Balls":"3","Fours":"0","Sixes":"0","SR":"0.00","Date":"Nov 6 2020","Venue":"Abu Dhabi","Result":"Sunrisers won by 6 wickets (with 2 balls remaining)","Opponent Team":"Royal Challengers Bangalore"},{"Runs":"0","Balls":"1","Fours":"0","Sixes":"0","SR":"0.00","Date":"Nov 8 2020","Venue":"Abu Dhabi","Result":"Capitals won by 17 runs","Opponent Team":"Delhi Capitals"}]
+[
+    {
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "0.00",
+        "Date": "Nov 6 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Sunrisers won by 6 wickets (with 2 balls remaining)",
+        "Opponent Team": "Royal Challengers Bangalore"
+    },
+    {
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "SR": "0.00",
+        "Date": "Nov 8 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Capitals won by 17 runs",
+        "Opponent Team": "Delhi Capitals"
+    }
+]
